@@ -7,7 +7,7 @@ cask "cliche" do
   desc "Clipboard history + screen capture and annotation for the menu bar"
   homepage "https://github.com/curtismu7/cliche"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Cliché/Cliche.app"
 
