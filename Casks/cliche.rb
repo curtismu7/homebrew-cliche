@@ -1,6 +1,6 @@
 cask "cliche" do
-  version "0.1.11"
-  sha256 "d845a9c9c61236a155368aa6cbbd106113323cf183ac0353843b2ecd245dfa7a"
+  version "0.1.12"
+  sha256 "649424e88213fba28ff0f0261dbb996cbcaaa337086c6fb057e73cef0c5563b7"
 
   url "https://github.com/curtismu7/cliche/releases/download/v#{version}/Cliche-#{version}.zip"
   name "Cliché"
